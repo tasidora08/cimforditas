@@ -53,3 +53,8 @@ a:link,
 a:visited {
   color: blue;
 }
+
+p {
+  text-align: justify;
+  text-indent: 25px;
+}
