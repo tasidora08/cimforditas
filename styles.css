@@ -64,3 +64,8 @@ p {
   text-align: center;
   line-height: 130%;
 }
+
+table {
+  background-color: rgba(227, 225, 233, 0.8);
+  border: 2px solid black;
+}
