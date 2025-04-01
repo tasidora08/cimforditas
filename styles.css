@@ -68,5 +68,12 @@ p {
 
 table {
   background-color: rgba(227, 225, 233, 0.8);
-  border: 2px solid black;
+  border: 3px solid black;
+}
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: yellow;
 }
